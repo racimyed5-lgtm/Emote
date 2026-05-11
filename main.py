@@ -451,7 +451,7 @@ class CLIENT:
                 await asyncio.gather(task1, task2)
 
     async def MaiiiinE(self):
-        Uid, Pw = '4326472757', '7E476BF5B1B84DEFB26C7166CE73F85319BA16ACDCE866A6A35F866722C061A9'  # Add your credentials here
+        Uid, Pw = '4744860408', 'A7DAF79337E78C56131A16102F4693EC99589B48FD7C257EBB16E84F7647EC17'  # Add your credentials here
         
         open_id, access_token = await GeNeRaTeAccEss(Uid, Pw)
         if not open_id or not access_token:
